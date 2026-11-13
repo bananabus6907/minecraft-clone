@@ -1,4 +1,4 @@
-# 🎮 Minecraft Clone (Ursina 튜토리얼 실습)
+# 🎮 Minecraft Clone (Ursina 엔진)
 
 > [kairess/minecraft-clone](https://github.com/kairess/minecraft-clone)을 포크해 따라 만들며 Python 3D 게임 엔진 **Ursina**를 익힌 학습용 저장소입니다.
 > 게임 코드와 에셋은 원본 튜토리얼 것이며, 이 저장소에서는 원본의 초기 버전 코드를 유지하고 문서만 추가했습니다.
